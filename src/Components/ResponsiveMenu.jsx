@@ -16,7 +16,7 @@ const ResponsiveMenu = ({open}) =>{
                     <div className="cursor-pointer text-xl font-semibold uppercase bg-primary text-white py-10 m-6 rounded-3xl">
                         <ul className="flex flex-col justify-center items-center gap-5">
                             <a href="#"><li className=" hover:text-black">Home</li></a>
-                            <a href="about"><li className=" hover:text-black">About</li></a>
+                            <a><li className=" hover:text-black">About</li></a>
                             <a><li className=" hover:text-black">Products</li></a>
                             <a><li className=" hover:text-black">Serivices</li></a>
                             <a><li className=" hover:text-black">Contact</li></a>

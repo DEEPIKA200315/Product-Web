@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ResponsiveMenu from "./ResponsiveMenu";
+import {ResponsiveMenu} from "./ResponsiveMenu";
 import { NavbarMenu } from "../DB/db";
 import { CiSearch } from "react-icons/ci";
 import { MdMenu } from "react-icons/md";
