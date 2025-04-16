@@ -11,7 +11,7 @@ const Navbar = () => {
     const [openModal, setOpenModal] = useState(false);
     return (
         // className="bg-[url(../src/assets/3.jpg)]"
-        <div id="home" className="bg-[url(../src/assets/7.jpg)] relative h-[100vh] bg-cover bg-center w-full bg-no-repeat"
+        <div id="home" className="bg-[url(/Product-Web/assets/7.jpg)] relative h-[100vh] bg-cover bg-center w-full bg-no-repeat"
          style={{ textShadow: "2px 2px 4px rgba(0, 0, 0, 0.8)" }}>
             <nav className="fixed top-0 left-0 z-50 w-full">
                 <div className="container flex justify-between py-5">

@@ -4,17 +4,17 @@ const testimonials = [
     {
         name: "Dinesh",
         review: "Fresh and premium quality! I'm so happy with the taste and packaging.",
-        image: "../src/assets/men1.jpg",
+        image: "/Product-Web/assets/men1.jpg",
       },
   {
     name: "Deepika",
     review: "Best dry fruits I've had in a long time. Highly recommended!",
-    image: "../src/assets/gr2.jpg",
+    image: "/Product-Web/assets/gr2.jpg",
   },
   {
     name: "Alya",
     review: "Delivered on time and everything was super fresh!",
-    image: "../src/assets/g1.jpg",
+    image: "/Product-Web/assets/g1.jpg",
   },
 ];
 
@@ -51,8 +51,8 @@ const ServiceSection = () => {
         <h2 className="text-2xl font-bold mb-2">Get Started with our app</h2>
         <p className="mb-6 text-sm">Shop premium dry fruits anytime, anywhere with our app!</p>
         <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
-          <img src="../src/assets/az.png" alt="Google Play" className="w-40 cursor-pointer hover:scale-105 duration-300" />
-          <img src="../src/assets/bb.png" alt="App Store" className="w-40 cursor-pointer hover:scale-105 duration-300" />
+          <img src="/Product-Web/assets/az.png" alt="Google Play" className="w-40 cursor-pointer hover:scale-105 duration-300" />
+          <img src="/Product-Web/assets/bb.png" alt="App Store" className="w-40 cursor-pointer hover:scale-105 duration-300" />
         </div>
       </div>
     </section>

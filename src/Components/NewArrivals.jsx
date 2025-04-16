@@ -6,14 +6,14 @@ const NewArrivals = () => {
       id: 1,
       title: "Fenugreek",
       price: "₹599 / pack",
-      images: ["../src/assets/v.jpg",
+      images: ["/Product-Web/assets/v.jpg",
       ]
     },
     {
       id: 2,
       title: "Black Pepper",
       price: "₹799 / pack",
-      images: ["../src/assets/pp.jpg",
+      images: ["/Product-Web/assets/pp.jpg",
       ]
     },
     {
@@ -21,28 +21,28 @@ const NewArrivals = () => {
       title: "Fennel Seeds",
       price: "₹800 / pack",
       images: [
-            "../src/assets/so.webp"
+            "/Product-Web/assets/so.webp"
       ],
     },
     {
         id: 3,
         title: "Cardamom",
         price: "₹750 / pack",
-        images: ["../src/assets/e.jpg"
+        images: ["/Product-Web/assets/e.jpg"
         ],
       },
       {
         id: 3,
         title: "Cumin Seeds",
         price: "₹600 / pack",
-        images: ["../src/assets/j.jpg"
+        images: ["/Product-Web/assets/j.jpg"
         ],
       },
       {
         id: 3,
         title: "Black Cumin",
         price: "₹899 / pack",
-        images: ["../src/assets/kj.webp"
+        images: ["/Product-Web/assets/kj.webp"
         ],
       },
   ];

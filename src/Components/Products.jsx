@@ -6,41 +6,41 @@ const Products = () =>{
         {
           name: "Premium Almonds",
           price: "₹450 / 500g",
-          image: "../src/assets/img2.jpg",
+          image: "/Product-Web/assets/img2.jpg",
         },
         {
           name: "Cashew Nuts",
           price: "₹380 / 500g",
-          image: "../src/assets/img3.webp",
+          image: "/Product-Web/assets/img3.webp",
         },
         {
           name: "Fresh Pistachios",
           price: "₹520 / 500g",
-          image: "../src/assets/img4.jpg",
+          image: "/Product-Web/assets/img4.jpg",
         },
         {
           name: "Soft Dates",
           price: "₹290 / 500g",
-          image: "../src/assets/d.webp",
+          image: "/Product-Web/assets/d.webp",
         },{
             name: "Groundnut",
             price: "₹600 / 500g",
-            image: "../src/assets/gn.jpg",
+            image: "/Product-Web/assets/gn.jpg",
           },
           {
             name: "Walnuts",
             price: "₹550 / 500g",
-            image: "../src/assets/w.jpg",
+            image: "/Product-Web/assets/w.jpg",
           },
           {
             name: "Dry Fruit Mix",
             price: "₹750 / 1kg",
-            image: "../src/assets/m.png",
+            image: "/Product-Web/assets/m.png",
           },
           {
             name: "Golden Raisins",
             price: "₹320 / 500g",
-            image: "../src/assets/g2.webp",
+            image: "/Product-Web/assets/g2.webp",
           },
       ];
     

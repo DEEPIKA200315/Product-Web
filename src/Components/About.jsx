@@ -9,7 +9,7 @@ const About = () => {
                 {/* Image Section */}
                 <div className="md:w-1/2">
                     <img
-                        src="../src/assets/img1.jpg" 
+                        src="/Product-Web/assets/img1.jpg" 
                         alt="About Dry Fruits"
                         className="rounded-3xl shadow-2xl w-full hover:scale-105 transition duration-500"
                     />
